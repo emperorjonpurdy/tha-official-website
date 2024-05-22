@@ -1,38 +1,17 @@
-<!DOCTYPE html>
-<link rel="stylesheet" href="data/code/index.css"/>
-<title>bbg pics</title>
-<hr>
-<h1>all images as of 5/22/2024...</h1>
-<hr>
 <img src="data/images/bren.png"/>
-<hr>
 <img src="data/images/garb.png"/>
-<hr>
 <img src="data/images/goob.jpg"/>
-<hr>
 <img src="data/images/jon-dr-pepper-resized.jpg"/>
-<hr>
+<img src="data/images/jon-dr-pepper.jpg"/>
 <img src="data/images/jon-portrait.jpg"/>
-<hr>
 <img src="data/images/jon.jpg"/>
-<hr>
 <img src="data/images/kkk-mole-rat.png"/>
-<hr>
 <img src="data/images/laboskie.jpg"/>
-<hr>
 <img src="data/images/m-a-w-logo.png"/>
-<hr>
 <img src="data/images/milk-splash-transparent-free.png"/>
-<hr>
 <img src="data/images/mug-root-beer-drawn-s1.png"/>
-<hr>
 <img src="data/images/mug-root-beer.png"/>
-<hr>
 <img src="data/images/orange.png"/>
-<hr>
 <img src="data/images/rape-crisis-logo.png"/>
-<hr>
 <img src="data/images/troll.png"/>
-<hr>
 <img src="data/images/vs2.png"/>
-<hr>
